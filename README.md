@@ -1,2 +1,4 @@
-# BrowserManager
-Machine Coding Interview Question to Manage Browser Tabs
+<!-- start
+stop
+get all terminals
+cleanup -->
